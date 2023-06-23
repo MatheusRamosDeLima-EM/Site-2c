@@ -1,0 +1,28 @@
+body {
+    background-color: #cdaeff;
+}
+
+.primeira-parte {
+    background-color: #bae5ff;
+}
+
+.primeira-parte p {
+    color: rgb(0, 100, 0);
+}
+
+.foto {
+    width: 750px;
+}
+
+.estudantes {
+    background-color: rgb(224, 255, 161);
+}
+
+.todos-os-estudantes {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.foto-aluno {
+    height: 150px;
+}
